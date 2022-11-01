@@ -1,24 +1,6 @@
-# README
+# Turbo Todos
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Making a simple Todos to practice and understand Turbo by using Ruby on Rails
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Screenshot
+<img width="831" alt="image" src="https://user-images.githubusercontent.com/65494027/199349729-32c6e9dd-be27-4401-812b-50ced96d6d97.png">
